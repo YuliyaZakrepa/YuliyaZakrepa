@@ -19,8 +19,8 @@ Tech stack: HTML, CSS, JavaScript, Swiper, Raty-js, Axios, SweetAlert2, REST API
 Tech stack: HTML, CSS, JavaScript, Vite, GitHub Actions.
 
 🗣️ Languages
-![English](https://img.shields.io/badge/English-B1-blue?style=flat-square)
-![Ukrainian](https://img.shields.io/badge/Ukrainian-Native-yellow?style=flat-square)
+<br>![English](https://img.shields.io/badge/English-B1-blue?style=flat-square)
+<br>![Ukrainian](https://img.shields.io/badge/Ukrainian-Native-yellow?style=flat-square)
 
 📫 How to reach me:  
 [LinkedIn](https://in/yuliia-zakrepa-66b0b4378) | [Telegram](https://t.me/ZakrepaY) | [Email](yv.zakrepa@gmail.com)
