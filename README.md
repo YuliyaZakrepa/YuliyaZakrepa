@@ -11,11 +11,11 @@ management.
 JavaScript | TypeScript | Node.js | React | Next.js | HTML | CSS 
 
 💻Featured Projects
--[NoteHub](https://github.com/YuliyaZakrepa/NoteHub)-a simple and efficient application designed for managing personal notes, built with React, Next.js, REST API, and localStorage.Implemented features include user registration and authorization, notes search, filtering notes by categories, the creation and editing of existing notes.
-[Filmoteka](https://04-react-query-pied-omega.vercel.app/)-a movie search web application built with React, REST API, and localStorage. Implemented features include movie search, detailed movie information  (description, release date and rate).
--[Choco bytes](https://yuliyazakrepa.github.io/choco-bytes)-team project. Application for an online dessert store. 
+<br>[NoteHub](https://github.com/YuliyaZakrepa/NoteHub)-a simple and efficient application designed for managing personal notes, built with React, Next.js, REST API, and localStorage.Implemented features include user registration and authorization, notes search, filtering notes by categories, the creation and editing of existing notes.
+<br>[Filmoteka](https://04-react-query-pied-omega.vercel.app/)-a movie search web application built with React, REST API, and localStorage. Implemented features include movie search, detailed movie information  (description, release date and rate).
+<br>[Choco bytes](https://yuliyazakrepa.github.io/choco-bytes)-team project. Application for an online dessert store. 
 Tech stack: HTML, CSS, JavaScript, Swiper, Raty-js, Axios, SweetAlert2, REST API.
--[Coffee Joy](https://yuliyazakrepa.github.io/project-Last-5-Standing) - team project. Single-page web application for a coffee shop.
+<br>[Coffee Joy](https://yuliyazakrepa.github.io/project-Last-5-Standing) - team project. Single-page web application for a coffee shop.
 Tech stack: HTML, CSS, JavaScript, Vite, GitHub Actions.
 
 🗣️ Languages
