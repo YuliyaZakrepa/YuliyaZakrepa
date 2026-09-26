@@ -1,7 +1,8 @@
 ## Hi there 👋
 <br>I'm Yuliya Zakrepa.
 <br>Junior Fullstack Developer.
-<br>Fullstack developer with with a focus on HTML/CSS, JavaScript, React, Next.js, and Node js. 
+
+<br>Fullstack developer with a focus on HTML/CSS, JavaScript, React, Next.js, and Node.js
 <br>Experienced in creating single-page applications (SPA), integrating REST API, and implementing responsive and adaptive user interface components.
 Solidified technical knowledge through the creation of several educational projects and dozens of practical tasks. 
 Disciplined, highly responsible, and focused on meeting strict deadlines through efficient time
