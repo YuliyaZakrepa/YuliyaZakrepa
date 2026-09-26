@@ -24,4 +24,4 @@ Tech stack: HTML, CSS, JavaScript, Vite, GitHub Actions.
 <br>![Ukrainian](https://img.shields.io/badge/Ukrainian-Native-yellow?style=flat-square)
 
 📫 How to reach me:  
-[LinkedIn](https://in/yuliia-zakrepa-66b0b4378) | [Telegram](https://t.me/ZakrepaY) | [Email](yv.zakrepa@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/yuliiazakrepa) | [Telegram](https://t.me/ZakrepaY) | [Email](yv.zakrepa@gmail.com)
