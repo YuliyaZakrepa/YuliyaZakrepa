@@ -8,7 +8,7 @@ Solidified technical knowledge through the creation of several educational proje
 Disciplined, highly responsible, and focused on meeting strict deadlines through efficient time
 management. 
 
-🧰 ### 🛠️ Tech Stack
+🧰Tech Stack
 ![HTML](https://shields.io)
 ![CSS](https://shields.io)
 ![JS](https://shields.io)
