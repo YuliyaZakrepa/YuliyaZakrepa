@@ -10,13 +10,13 @@ management.
 
 🧰 Tech Stack: 
 
-![JavaScript](https://shields.io)
-![TypeScript](https://shields.io)
-![NodeJS](https://shields.io)
-![React](https://shields.io)
-![Next.js](https://shields.io)
-![HTML5](https://shields.io)
-![CSS3](https://shields.io)
+![JavaScript](https://shields.io) 
+![TypeScript](https://shields.io) 
+![NodeJS](https://shields.io) 
+![React](https://shields.io) 
+![Next.js](https://shields.io) 
+![HTML5](https://shields.io) 
+![CSS3](https://shields.io) 
 
 💻Featured Projects:
 <br>[NoteHub](https://github.com/YuliyaZakrepa/NoteHub) - a simple and efficient application designed for managing personal notes, built with React, Next.js, REST API, and localStorage. Implemented features include user registration and authorization, notes search, filtering notes by categories, the creation and editing of existing notes.
